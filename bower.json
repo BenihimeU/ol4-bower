@@ -5,7 +5,7 @@
     "vishwa.vijay143@gmail.com"
   ],
   "description": "Bower package for openlayer4 library",
-  "main": "ol.js",
+  "main": ["ol.js","ol.css"],
   "keywords": [
     "ol4-bower"
   ],
