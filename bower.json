@@ -1,0 +1,20 @@
+{
+  "name": "ol4-bower",
+  "homepage": "https://github.com/BenihimeU/ol4-bower",
+  "authors": [
+    "vishwa.vijay143@gmail.com"
+  ],
+  "description": "Bower package for openlayer4 library",
+  "main": "ol.js",
+  "keywords": [
+    "ol4-bower"
+  ],
+  "license": "2-Clause BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
